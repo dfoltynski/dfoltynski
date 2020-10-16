@@ -3,7 +3,7 @@
 
 -   🌱 I’m currently learning **about unit testing and more and more React.js**
 
--   👨‍💻 Portfolio [dfoltynski.com](https://dfoltynski.com/)😊
+-   👨‍💻 Portfolio <a href="https://dfoltynski.com/" target="_blank">dfoltynski.com</a>😊
 
 -   📖 I want to learn **React Native, TypeScript, Gatsby.js, ???**
 

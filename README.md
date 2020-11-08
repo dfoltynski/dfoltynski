@@ -3,7 +3,7 @@
 
 -   🌱 I’m currently learning **TypeScript with React and Gatsby**
 
--   👨‍💻 Portfolio <a href="https://dfoltynski.com/" target="_blank">dfoltynski.com</a>😊
+-   👨‍💻 Portfolio <a href="https://dfoltynski.com/" target="_blank">dfoltynski.com</a>
 
 -   📖 I want to learn **React Native, testing, ???**
 

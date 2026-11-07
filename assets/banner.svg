@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-label="dfoltynski, senior backend engineer and AI-powered builder">
+<style>:root{--bg:#f6f8fa;--bg2:#ffffff;--line:#d0d7de;--fg:#1f2328;--dim:#59636e;--a:#0969da;--b:#bf3989;--c:#1a7f37}
+@media (prefers-color-scheme:dark){:root{--bg:#0d1117;--bg2:#161b22;--line:#30363d;--fg:#f0f6fc;--dim:#9198a1;--a:#58a6ff;--b:#f778ba;--c:#3fb950}}
+.n{font:700 72px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:var(--fg);letter-spacing:-1.5px}
+.r{font:400 30px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:var(--dim)}
+.m{font:500 21px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:var(--a)}
+.o{fill:none;stroke:var(--line);stroke-width:1.5}
+.d{animation:t 14s linear infinite}
+.e{animation:t 9s linear infinite reverse}
+.f{animation:t 22s linear infinite;animation-delay:-7s}
+.d{offset-path:path("M0,-118 C130,-118 190,-40 190,0 C190,60 90,118 0,118 C-90,118 -190,60 -190,0 C-190,-40 -130,-118 0,-118Z")}.f{offset-path:path("M0,-118 C130,-118 190,-40 190,0 C190,60 90,118 0,118 C-90,118 -190,60 -190,0 C-190,-40 -130,-118 0,-118Z")}.e{offset-path:path("M0,-74 C70,-74 120,-30 120,0 C120,36 60,74 0,74 C-60,74 -120,36 -120,0 C-120,-30 -70,-74 0,-74Z")}
+@keyframes t{to{offset-distance:100%}}
+@media (prefers-reduced-motion:reduce){.d,.e,.f{animation:none}}
+</style>
+<rect width="1200" height="300" rx="16" fill="var(--bg)"/>
+<rect x=".75" y=".75" width="1198.5" height="298.5" rx="15.5" fill="none" stroke="var(--line)" stroke-width="1.5"/>
+<text class="n" x="64" y="132">dfoltynski</text>
+<text class="r" x="66" y="184">Senior backend engineer, AI-powered builder</text>
+<text class="m" x="66" y="232">Node.js  /  TypeScript  /  Go  /  Distributed systems</text>
+<g transform="translate(950 150)">
+<path class="o" d="M0,-118 C130,-118 190,-40 190,0 C190,60 90,118 0,118 C-90,118 -190,60 -190,0 C-190,-40 -130,-118 0,-118Z"/><path class="o" d="M0,-74 C70,-74 120,-30 120,0 C120,36 60,74 0,74 C-60,74 -120,36 -120,0 C-120,-30 -70,-74 0,-74Z"/>
+<circle r="9" fill="var(--a)"/>
+<circle class="d" r="9" fill="var(--b)"/><circle class="e" r="6" fill="var(--c)"/><circle class="f" r="5" fill="var(--a)"/>
+</g></svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 190" role="img" aria-label="Right now: ESP32, PCBs and electronics. Firmware, hardware and the backend behind it.">
+<style>:root{--bg:#f6f8fa;--bg2:#ffffff;--line:#d0d7de;--fg:#1f2328;--dim:#59636e;--a:#0969da;--b:#bf3989;--c:#1a7f37}
+@media (prefers-color-scheme:dark){:root{--bg:#0d1117;--bg2:#161b22;--line:#30363d;--fg:#f0f6fc;--dim:#9198a1;--a:#58a6ff;--b:#f778ba;--c:#3fb950}}
+.l{font:600 19px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:var(--c);letter-spacing:2px}
+.h{font:700 42px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:var(--fg);letter-spacing:-.6px}
+.u{font:400 23px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:var(--dim)}
+.tr{fill:none;stroke:var(--line);stroke-width:3}
+.p{fill:none;stroke:var(--c);stroke-width:3;stroke-linecap:round;stroke-dasharray:9 91;animation:s 4s linear infinite}
+.p2{animation-delay:-1.3s}.p3{animation-delay:-2.6s}
+@keyframes s{from{stroke-dashoffset:100}to{stroke-dashoffset:0}}
+.chip{fill:var(--bg2);stroke:var(--dim);stroke-width:2}.pin{fill:var(--dim)}
+.via{fill:var(--bg);stroke:var(--c);stroke-width:3}
+.ct{font:600 19px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:var(--fg)}
+@media (prefers-reduced-motion:reduce){.p{animation:none;stroke-dasharray:none;opacity:.5}}
+</style>
+<rect x=".75" y=".75" width="1198.5" height="188.5" rx="15.5" fill="var(--bg)" stroke="var(--line)" stroke-width="1.5"/>
+<text class="l" x="64" y="58">RIGHT NOW</text>
+<text class="h" x="64" y="108">ESP32, PCBs and electronics</text>
+<text class="u" x="65" y="148">Firmware, hardware and the backend behind it</text>
+<g transform="translate(660 25)"><path class="tr" d="M0,40 H70 L95,65 H170"/><path class="p p1" d="M0,40 H70 L95,65 H170" pathLength="100"/><path class="tr" d="M0,100 H110 L135,75 H170"/><path class="p p2" d="M0,100 H110 L135,75 H170" pathLength="100"/><path class="tr" d="M330,40 H400 L425,15 H520"/><path class="p p1" d="M330,40 H400 L425,15 H520" pathLength="100"/><path class="tr" d="M330,70 H440 L470,100 H520"/><path class="p p2" d="M330,70 H440 L470,100 H520" pathLength="100"/><path class="tr" d="M330,100 H380 L405,125 H520"/><path class="p p3" d="M330,100 H380 L405,125 H520" pathLength="100"/><rect class="pin" x="186" y="20" width="9" height="12"/><rect class="pin" x="186" y="108" width="9" height="12"/><rect class="pin" x="210" y="20" width="9" height="12"/><rect class="pin" x="210" y="108" width="9" height="12"/><rect class="pin" x="234" y="20" width="9" height="12"/><rect class="pin" x="234" y="108" width="9" height="12"/><rect class="pin" x="258" y="20" width="9" height="12"/><rect class="pin" x="258" y="108" width="9" height="12"/><rect class="pin" x="282" y="20" width="9" height="12"/><rect class="pin" x="282" y="108" width="9" height="12"/><rect class="pin" x="306" y="20" width="9" height="12"/><rect class="pin" x="306" y="108" width="9" height="12"/><circle class="via" cx="520" cy="15" r="6"/><circle class="via" cx="520" cy="100" r="6"/><circle class="via" cx="520" cy="125" r="6"/>
+<rect class="chip" x="170" y="32" width="160" height="76" rx="6"/>
+<text class="ct" x="250" y="77" text-anchor="middle">ESP32</text></g></svg>

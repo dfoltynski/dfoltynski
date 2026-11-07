@@ -11,13 +11,13 @@ I am also an AI-powered engineer. I know my way around AI tools and use them as 
 > [!NOTE]
 > Most of my professional work lives in private repositories on separate GitHub and GitLab accounts. This profile shows university and personal projects, not my day job.
 
-### Deployment orchestrator
+### Deployment orchestrator (proof of concept)
 
-A two-part system I designed and built for my engineering degree.
+A two-part proof of concept I designed and built for my engineering degree. It is not a finished product.
 
 <p>
-  <a href="https://github.com/dfoltynski/thanatos"><img src="assets/thanatos.svg" alt="thanatos: deployment orchestrator with a TypeScript API and a Go engine" width="49%"></a>
-  <a href="https://github.com/dfoltynski/charon"><img src="assets/charon.svg" alt="charon: operator console for thanatos" width="49%"></a>
+  <a href="https://github.com/dfoltynski/thanatos"><img src="assets/thanatos.svg" alt="thanatos: proof-of-concept deployment orchestrator with a TypeScript API and a Go engine" width="49%"></a>
+  <a href="https://github.com/dfoltynski/charon"><img src="assets/charon.svg" alt="charon: proof-of-concept operator console for thanatos" width="49%"></a>
 </p>
 
 ### Older and for fun

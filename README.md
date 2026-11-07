@@ -40,5 +40,3 @@ A two-part system I designed and built for my engineering degree.
 ![AI-powered engineering](https://img.shields.io/badge/AI--powered_engineering-BF3989?style=flat-square)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-Also exploring network programming.
